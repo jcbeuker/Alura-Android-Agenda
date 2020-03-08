@@ -21,6 +21,7 @@
         android:layout_margin="16dp"
         android:background="#CD1515"
         android:clickable="true"
+        android:src="@drawable/ic_action_novo_aluno"
         android:focusable="true"
         android:visibility="visible"
         app:backgroundTint="#D31212"
